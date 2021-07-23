@@ -1,6 +1,6 @@
 ## Exercise Instructions
 
-## Implement Two New Screens
+### Implement Two New Screens
 - The overall goal is to implement the two screen seen in the image in the root `Screen-Designs.png`.
 - All assets needed for the two screens are in SVG format in the folder `src/common/svg`. Please move them to where it makes the most sense.
 - Make sure to use Antd library, do your best building the layout and the page exactly as in the design do not worry about the progress bar under the header.
