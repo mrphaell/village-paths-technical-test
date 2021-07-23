@@ -1,0 +1,47 @@
+{
+  "id": 42,
+  "name": "Village Creed PBC",
+  "description": "**Go from ideas to opportunities**\nThrough paths you can gain new experiences and skills that can help you get a new job, get into college, or receive a certification.\n\n**Learn through networked tools**\nOrganizations use many different learning tools to create paths such as videos, audio materials, virtual events, documents, and more.\n\n**Track your progress**\nReview your paths, track your progress, and share your milestones with others! Paths make it easy for you to take charge of your personal development.",
+  "profileImageUrl": null,
+  "slogan": "Paths are steps in a journey where you track and measure your development to attain a goal.",
+  "location": null,
+  "websiteUrl": "app.villagepaths.com",
+  "coverImageUrl": null,
+  "created_at": "2021-01-13T14:29:45.865Z",
+  "updated_at": "2021-01-13T14:29:45.865Z",
+  "foundedDate": null,
+  "address": null,
+  "profileImage": {
+    "id": 1356,
+    "name": "Path Logo.svg",
+    "alternativeText": "",
+    "caption": "",
+    "width": 180,
+    "height": 180,
+    "formats": {
+      "thumbnail": {
+        "ext": ".jpeg",
+        "url": "https://villagepaths-app-assets-production.s3.amazonaws.com/thumbnail_Path_Logo_svg_f0e58929ec.jpeg",
+        "hash": "thumbnail_Path_Logo_svg_f0e58929ec",
+        "mime": "image/jpeg",
+        "path": null,
+        "size": 1.08,
+        "width": 156,
+        "height": 156
+      }
+    },
+    "hash": "Path_Logo_svg_f0e58929ec",
+    "ext": ".jpeg",
+    "mime": "image/jpeg",
+    "size": 1.17,
+    "url": "https://villagepaths-app-assets-production.s3.amazonaws.com/Path_Logo_svg_f0e58929ec.jpeg",
+    "previewUrl": null,
+    "provider": "aws-s3",
+    "provider_metadata": null,
+    "created_at": "2021-01-13T14:26:46.699Z",
+    "updated_at": "2021-01-13T14:26:46.699Z"
+  },
+  "followers": [],
+  "domains": [],
+  "memberCount": 11
+}
