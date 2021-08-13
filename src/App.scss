@@ -57,6 +57,42 @@
     flex-direction: row;
 }
 
+.Join-title {
+    display: flex;
+    margin-top: 5vmin;
+    margin-left: 5vmin;
+    height: 85vmin;
+    .title {
+        margin-left: 5vmin;
+    }
+}
+
+.Join-body {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+}
+
+.Join-card {
+    width: 45vmin;
+    margin-top: 5vmin;
+    border-radius: 1vmin;
+    .Card-content {
+        align-items: center;
+        display: flex;
+        .Org-info {
+            margin-left: 2vmin;
+        }
+
+        .Join-org {
+            margin-left: 10vmin;
+            background-color: #2d436f;
+            border-radius: 1vmin;
+            color: white;
+        }
+    }
+}
+
 .Side-image {
     width: 40vw;
     background-image: linear-gradient(#e8e8e8, #ffffff);
@@ -65,6 +101,24 @@
         margin-left: auto;
         margin-right: auto;
         display: block;
+    }
+}
+
+.Join-content {
+    width: 60vw;
+    margin-top: 5vmin;
+    margin-left: 5vmin;
+    background-color: #ffffff;
+    justify-content: center;
+    .Create-org {
+        margin-top: 5vmin;
+        border-radius: 1vmin;
+        border-style: dashed;
+        .Create-lbl {
+            margin-left: 1vmin;
+            font-weight: 500;
+            font-size: small;
+        }
     }
 }
 
