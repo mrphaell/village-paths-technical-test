@@ -1,10 +1,20 @@
 import logo from 'logo.svg';
+import { Button } from 'antd';
+import { useHistory } from 'react-router-dom';
 
 function Dashboard() {
+  const history = useHistory();
+
+  function aboutYouClick() {
+    history.push('/account');
+  }
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo"/>
+        <Button shape="round" onClick={aboutYouClick}>
+          Account
+        </Button>
         <p>Create React App Template Preconfigured with</p>
         <ol style={{textAlign: 'left'}}>
           <li>Redux Toolkit</li>
